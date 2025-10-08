@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "sushilka",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "c"
+		}
+	}
+}
